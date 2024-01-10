@@ -1,0 +1,14 @@
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.exe
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.deps.json
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.runtimeconfig.json
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.dll
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.pdb
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.AssemblyInfoInputs.cache
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.AssemblyInfo.cs
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.csproj.CoreCompileInputs.cache
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.dll
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\obj\Debug\net6.0\refint\ConAppOne.dll
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.pdb
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.genruntimeconfig.cache
+C:\Mphasis\Phase-4\Day-4\ConAppOne\ConAppOne\obj\Debug\net6.0\ref\ConAppOne.dll
