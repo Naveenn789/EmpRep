@@ -20,4 +20,3 @@ foreach (Employee emp in employees)
     Console.Write(emp.Doj + "\t");
     Console.WriteLine("\n");
 }
-Console.ReadKey();
